@@ -19,7 +19,7 @@ This repository is a structured collection of **Data Structures and Algorithms**
 - Build a solid foundation in algorithmic thinking  
 
 ## 🚀 Tech Stack
-- Languages: C, C++, Python,   
+- Languages: C, C++, Python and js,   
 - Tools: GitHub for version control, Markdown for documentation  
 
 ---
