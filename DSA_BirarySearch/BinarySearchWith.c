@@ -28,7 +28,7 @@ int main(){
     return 0;
 }
 
-// Explaination:
+// Explanation:
 /*
 What the binarySearch function does
 Purpose: Efficiently find the index of a target value in a sorted array using divide‑and‑conquer.
